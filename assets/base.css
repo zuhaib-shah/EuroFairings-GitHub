@@ -2145,10 +2145,6 @@ input[type='checkbox'] {
   }
 }
 
-.zuhaib {
-  background-color: red !important;
-}
-
 .announcement-bar,
 .announcement-bar__announcement {
   color: rgb(var(--color-foreground));
