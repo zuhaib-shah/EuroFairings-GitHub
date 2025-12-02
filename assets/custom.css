@@ -1,0 +1,8 @@
+/* header css */
+sticky-header.header-wrapper {
+    position: absolute;
+    width: 100%;
+    background: transparent;
+    border: none;
+}
+/* header css close */
