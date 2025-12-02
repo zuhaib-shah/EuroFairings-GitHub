@@ -5,4 +5,8 @@ sticky-header.header-wrapper {
     background: transparent;
     border: none;
 }
+
+.header-wrapper {
+    background-color: red;
+}
 /* header css close */
