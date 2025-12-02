@@ -22,6 +22,10 @@ sticky-header.header-wrapper {
     background: transparent;
     border: none;
 }
+
+p {
+    color: red;
+}
 /* header css close */
 
 
