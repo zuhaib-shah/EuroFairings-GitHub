@@ -1,12 +1,28 @@
 /* header css */
+.announcement-bar-section .page-width {
+    max-width: 570px;
+    padding-left: 16px !important;
+    padding-right: 30px !important;
+}
+.announcement-bar-section .utility-bar {
+    background: #1f2937;
+    border: none;
+}
+.announcement-bar-section .utility-bar p.barText {
+    color: #0086bf;
+    font-size: 16px;
+    line-height: 20px;
+}
+.announcement-bar-section .utility-bar .svg-wrapper svg path {
+    fill: #0086bf;
+}
 sticky-header.header-wrapper {
     position: absolute;
     width: 100%;
     background: transparent;
     border: none;
 }
-
-.header-wrapper {
-    background-color: red;
-}
 /* header css close */
+
+
+
