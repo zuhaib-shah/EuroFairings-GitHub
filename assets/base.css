@@ -2142,6 +2142,7 @@ input[type='checkbox'] {
   .announcement-bar--one-announcement .announcement-bar__link {
     width: fit-content;
     margin: auto;
+    display: unset;
   }
 }
 
