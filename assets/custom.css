@@ -31,7 +31,8 @@ sticky-header.header-wrapper {
 }
 
 p {
-    color: red;
+    color: #000;
+    font-size: 20px;
 }
 /* header css close */
 
