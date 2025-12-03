@@ -29,10 +29,13 @@ sticky-header.header-wrapper {
     background: transparent;
     border: none;
 }
-
 p {
     color: #000;
     font-size: 20px;
+}
+.header-wrapper .header__menu-item span {
+    font-family: "Inter", sans-serif;
+    color: #fff;
 }
 /* header css close */
 
