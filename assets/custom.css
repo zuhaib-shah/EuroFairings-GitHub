@@ -37,6 +37,9 @@ p {
     font-family: "Inter", sans-serif;
     color: #fff;
 }
+.header__icons svg path {
+    fill: #fff;
+}
 /* header css close */
 
 
